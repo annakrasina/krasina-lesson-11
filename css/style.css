@@ -102,6 +102,7 @@
 	-o-transform: translateY(4px);
 	transform: translateY(4px);
 	border-radius: 5px;
+
 	
 	
 	
@@ -115,4 +116,6 @@
 }
 .main_nav_bar{
 	width: 35px;
+	position: relative;	
+	float: right ;
 }
